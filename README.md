@@ -1,6 +1,6 @@
 # Üniversite Yönetim Sistemi
 
-![image](ÜniversiteYönetimSistemi.drawio-.png)
+![github](ÜniversiteYönetimSistemi.drawio-.png)
 - www.patika.dev OOP ödevidir
 
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
